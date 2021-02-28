@@ -1,4 +1,6 @@
 [
-    {"id":"1","Type":"website","URL":"https://www.languagetutorial.org/learn-latin/#google_vignette"},
-    {"id":"2","Type":"video","URL":"https://youtu.be/aWUlrL6E_QU"}
+    {"id":"1","Type":"latin tutorial website","URL":"https://www.languagetutorial.org/learn-latin/#google_vignette"},
+    {"id":"2","Type":"latin tutorial video","URL":"https://youtu.be/aWUlrL6E_QU"},
+    {"id":"3","Type":"support website","URL":"https://stackoverflow.com/questions/38497334/how-to-run-html-file-on-localhost#48364392"}
+    {"id":"4","Type":"json tutorial website","website":"https://howtocreateapps.com/fetch-and-display-json-html-javascript/"}
 ]
